@@ -1,3 +1,5 @@
 # TeamB
-Chap 6
-Editor: 다희
+Editor
+Chap 4: 다영, 
+Chap 5: 지원, 
+Chap 6: 다희
