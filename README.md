@@ -1,2 +1,3 @@
 # TeamB
-Chap 4, 5, 6
+Chap 5
+Editor: 지원
