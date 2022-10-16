@@ -4,7 +4,3 @@
 !/Chap*/*-*-*
 /Chap*/*-*-*/*
 !/Chap*/*-*-*/src
-/Chap*/*-*-*/src/*
-!/Chap*/*-*-*/src/*.java
-!/Chap*/*-*-*/src/*.txt
-!/Chap*/*-*-*/src/*.md
